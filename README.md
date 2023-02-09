@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Verexo#1521</h1>
 <h3 align="center">A passionate frontend|back-end developer from Poland</h3>
 
-- 🔭 I’m currently working on [AmethystRP | 💜](https://discord.gg/B4ku5vszRS)
+- 🔭 I’m currently working on [SecondLifeRP 2.1](https://discord.gg/xnPsFfR7RG)
 
 - 🌱 I’m currently learning **Front-End (JS) | Back-End (Python)**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vexxcode.pl](https://vexxcode.pl)
 
-- 💬 Ask me about **HTML, CSS, JS, UI, Python**
+- 💬 Ask me about **HTML, CSS, JS, UI, Python, LUA**
 
 - 📫 How to reach me Discord **Verexo#1521**
 
