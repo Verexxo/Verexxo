@@ -7,7 +7,7 @@
 
 - ✨ Zajmuje się również tworzeniem projektów graficznych stron **w programie Figma**
 
-- ✉️E-MAIL **wlk195914@gmail.com**
+- ✉️E-MAIL: **wlk195914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
