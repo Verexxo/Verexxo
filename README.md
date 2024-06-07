@@ -4,6 +4,8 @@
 - 🔭 Aktualnie pracuje nad [DiamondRP](https://discord.gg/diamond-roleplay-2-0-wl-off-1184112491643539526)
 
 - 👯 Jestem zainteresowany wspólpracą z **projektami Fivem**
+  
+- 🥷Tworze zaawansowane **strony WWW**
 
 - ✨ Zajmuje się również tworzeniem projektów graficznych stron **w programie Figma**
 
